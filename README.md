@@ -28,5 +28,4 @@ VIDEO DELOVANJA:
 
 https://github.com/user-attachments/assets/1640d8c1-ee6a-453e-8d92-f045aefbcb69
 
-
-
+8. Komentar na delovanje, predlagane izboljšave in ostale morebitne opombe vnesite še na koncu datoteke README.md [10%]
