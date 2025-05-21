@@ -16,3 +16,12 @@ KOSOVNICA:
 -Kabli 9x
 
 3. Prenesite v repozitor priredbeni seznam v obliki tabele [20%]
+
+SLIKA VEZAVE:
+![IMG_3434](https://github.com/user-attachments/assets/447c4b0e-84f7-4085-99be-3f34311ce8bf)
+
+
+SHEMA VEZAVE:
+![0](https://github.com/user-attachments/assets/24f8bed3-00ef-4782-bfb3-61704314add0)
+
+INO
