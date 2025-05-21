@@ -24,4 +24,4 @@ SLIKA VEZAVE:
 SHEMA VEZAVE:
 ![0](https://github.com/user-attachments/assets/24f8bed3-00ef-4782-bfb3-61704314add0)
 
-INO
+VIDEO DELOVANJA:
