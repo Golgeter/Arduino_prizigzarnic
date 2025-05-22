@@ -28,4 +28,4 @@ VIDEO DELOVANJA:
 
 https://github.com/user-attachments/assets/1640d8c1-ee6a-453e-8d92-f045aefbcb69
 
-8. Komentar na delovanje, predlagane izboljšave in ostale morebitne opombe vnesite še na koncu datoteke README.md [10%]
+Komentar: Vse je delovalo kot pričakovano – lukce so se pravilno prižigale in ugašale glede na pritisnjene tipke. Preklopi so delovali zanesljivo, ukaz za izklop je imel prednost, kot zahtevano. Vezje je bilo stabilno, brez napak.
