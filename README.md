@@ -28,4 +28,4 @@ VIDEO DELOVANJA:
 
 https://github.com/user-attachments/assets/1640d8c1-ee6a-453e-8d92-f045aefbcb69
 
-Komentar: Vse je delovalo kot pričakovano – lukce so se pravilno prižigale in ugašale glede na pritisnjene tipke. Preklopi so delovali zanesljivo, ukaz za izklop je imel prednost, kot zahtevano. Vezje je bilo stabilno, brez napak.
+Komentar: Vezje je delovalo pravilno. S tipkama b1 in b2 sta se LED 1 in LED 2 trajno prižgali, vendar je bila hkrati prižgana le ena, kot zahtevano. Tipka b3 je ob pritisku vedno ugasnila prižgano LED, ne glede na druge pritiske, kar ustreza zahtevi, da ima ukaz za izklop prednost. Tipka b4 je uspešno zamenjala stanje LED. Delovanje je bilo stabilno in brez napak.
